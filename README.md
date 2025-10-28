@@ -1,13 +1,13 @@
 # Twitter Etkileşim Analizi
 Bu proje, Twitter User Social Network veri seti üzerinde kapsamlı veri madenciliği ve sosyal ağ analizi gerçekleştirir. 40,000 kullanıcı verisi ile makine öğrenmesi modelleri, kümeleme analizi ve ağ görselleştirmeleri içerir.
 
-## 📊 Veri Seti
+## Veri Seti
 - **Ad**: Twitter User Social Network
 - **Boyut**: 40,000 kullanıcı (39,402 temiz kayıt)
 - **Format**: CSV (`data2.csv`)
 - **Özellikler**: Takipçi sayısı, takip edilen sayısı, etiketler, aktivite seviyesi
 
-## 🚀 Hızlı Başlangıç
+## Hızlı Başlangıç
 
 ### Google Colab ile Çalıştırma (Önerilen)
 1. Yukarıdaki "Open In Colab" rozetine tıklayın
@@ -87,7 +87,7 @@ jupyter notebook
 - **Test MSE**: 4,850 (düşük hata)
 - **Test MAE**: 19.55 (ortalama mutlak hata)
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 ```
 TWITTER-ETKILESIM-ANALIZI/
 ├── README.md                    # Bu dosya
@@ -97,27 +97,13 @@ TWITTER-ETKILESIM-ANALIZI/
 └── verimadenciliği.ipynb        # Ana analiz notebook'u
 ```
 
-## 🛠️ Gereksinimler
+## Gereksinimler
 - Python 3.9+
 - Jupyter Notebook
 - Gerekli paketler: `requirements.txt` dosyasında listelenmiştir
 
-## 📈 Sonuçlar
+## Sonuçlar
 - **En Yüksek Performans**: Gradient Boosting (R² = 0.999)
 - **Kümeleme**: 5 farklı kullanıcı grubu
 - **Ağ Analizi**: 39,402 topluluk tespit edildi
 - **Görselleştirme**: 20+ analitik grafik
-
-## 🤝 Katkıda Bulunma
-- Hata bildirimi için [Issue](https://github.com/hilalsu/TWITTER-ETKILESIM-ANALIZI/issues) açın
-- Geliştirme önerileri için [Pull Request](https://github.com/hilalsu/TWITTER-ETKILESIM-ANALIZI/pulls) gönderin
-- Kod stili: PEP 8 uyumluluğu tercih edilir
-
-## 📄 Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
-
-## 👤 Geliştirici
-**Hilal Su KORKMAZ** - [@hilalsu](https://github.com/hilalsu)
-
----
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
