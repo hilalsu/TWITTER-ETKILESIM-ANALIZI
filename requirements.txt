@@ -1,0 +1,30 @@
+# Twitter Etkileşim Analizi - Python Bağımlılıkları
+
+# Temel veri işleme
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Görselleştirme
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Makine öğrenmesi
+scikit-learn>=1.1.0
+xgboost>=1.6.0
+
+# Ağ analizi
+networkx>=2.8.0
+python-louvain>=0.16
+
+# Jupyter ve geliştirme
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Veri ön işleme
+yellowbrick>=1.4.0
+
+# İlerleme çubuğu
+tqdm>=4.64.0
+
+# Google Colab (isteğe bağlı)
+google-colab>=1.0.0
