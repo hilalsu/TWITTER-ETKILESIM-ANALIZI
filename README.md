@@ -33,7 +33,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## 🔬 Kodda Neler Yapılıyor?
+## Kodda Neler Yapılıyor?
 
 ### 1. Veri Yükleme ve Ön İşleme
 - **Ham Veri Yükleme**: CSV dosyasından 40,000 Twitter kullanıcı verisi okunur
